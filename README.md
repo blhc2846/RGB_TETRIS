@@ -1,7 +1,7 @@
 # RGB_TETRIS
 SSHS Advanced Programming Project
 
-# HOW TO PLAY
+# How to Play
 - Different color components can mix
 - Same color components collide
 - Make White Line to destroy
